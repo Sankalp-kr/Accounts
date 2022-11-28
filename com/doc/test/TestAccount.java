@@ -120,6 +120,6 @@ public class TestAccount {
                 case 7:
                     System.out.println("Thank you for using our Application..");
             }
-        }
+        } 
     }
 }
